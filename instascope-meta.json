@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "slug": "optimism",
+  "generatedAt": "2026-10-18T12:34:39.712Z",
+  "scopeHash": "e96d955a25972285",
+  "chains": [
+    {
+      "chainId": 1,
+      "rootDir": "chains/ethereum-1",
+      "contracts": [
+        {
+          "address": "0xbEb5Fc579115071764c7423A4f12eDde41f106Ed",
+          "name": "Proxy",
+          "srcDir": "chains/ethereum-1/src/Proxy_beb5",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://etherscan.io/address/0xbEb5Fc579115071764c7423A4f12eDde41f106Ed",
+          "build": {
+            "compilerVersion": "v0.8.15+commit.e14f2714",
+            "optimizerRuns": 999999
+          }
+        },
+        {
+          "address": "0x543bA4AADBAb8f9025686Bd03993043599c6fB04",
+          "name": "ProxyAdmin",
+          "srcDir": "chains/ethereum-1/src/ProxyAdmin_543b",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://etherscan.io/address/0x543bA4AADBAb8f9025686Bd03993043599c6fB04",
+          "build": {
+            "compilerVersion": "v0.8.15+commit.e14f2714",
+            "optimizerRuns": 999999
+          }
+        },
+        {
+          "address": "0xe5965Ab5962eDc7477C8520243A95517CD252fA9",
+          "name": "Proxy",
+          "srcDir": "chains/ethereum-1/src/Proxy_e596",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://etherscan.io/address/0xe5965Ab5962eDc7477C8520243A95517CD252fA9",
+          "build": {
+            "compilerVersion": "v0.8.15+commit.e14f2714",
+            "optimizerRuns": 999999
+          }
+        },
+        {
+          "address": "0xdfe97868233d1aa22e815a266982f2cf17685a27",
+          "name": "Proxy",
+          "srcDir": "chains/ethereum-1/src/Proxy_dfe9",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://etherscan.io/address/0xdfe97868233d1aa22e815a266982f2cf17685a27",
+          "build": {
+            "compilerVersion": "v0.8.15+commit.e14f2714",
+            "optimizerRuns": 999999
+          }
+        },
+        {
+          "address": "0x75505a97BD334E7BD3C476893285569C4136Fa0F",
+          "name": "Proxy",
+          "srcDir": "chains/ethereum-1/src/Proxy_7550",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://etherscan.io/address/0x75505a97BD334E7BD3C476893285569C4136Fa0F",
+          "build": {
+            "compilerVersion": "v0.8.15+commit.e14f2714",
+            "optimizerRuns": 999999
+          }
+        },
+        {
+          "address": "0x25ace71c97B33Cc4729CF772ae268934F7ab5fA1",
+          "name": "Lib_ResolvedDelegateProxy",
+          "srcDir": "chains/ethereum-1/src/Lib_ResolvedDelegateProxy_25ac",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://etherscan.io/address/0x25ace71c97B33Cc4729CF772ae268934F7ab5fA1",
+          "build": {
+            "compilerVersion": "v0.7.6+commit.7338295f",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xE9daD167EF4DE8812C1abD013Ac9570C616599A0",
+          "name": "PermissionedDisputeGame",
+          "srcDir": "chains/ethereum-1/src/PermissionedDisputeGame_e9da",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://etherscan.io/address/0xE9daD167EF4DE8812C1abD013Ac9570C616599A0",
+          "build": {
+            "compilerVersion": "v0.8.15+commit.e14f2714",
+            "optimizerRuns": 999999
+          }
+        },
+        {
+          "address": "0xE497B094d6DbB3D5E4CaAc9a14696D7572588d14",
+          "name": "Proxy",
+          "srcDir": "chains/ethereum-1/src/Proxy_e497",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://etherscan.io/address/0xE497B094d6DbB3D5E4CaAc9a14696D7572588d14",
+          "build": {
+            "compilerVersion": "v0.8.15+commit.e14f2714",
+            "optimizerRuns": 999999
+          }
+        },
+        {
+          "address": "0x18DAc71c228D1C32c99489B7323d441E1175e443",
+          "name": "Proxy",
+          "srcDir": "chains/ethereum-1/src/Proxy_18da",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://etherscan.io/address/0x18DAc71c228D1C32c99489B7323d441E1175e443",
+          "build": {
+            "compilerVersion": "v0.8.15+commit.e14f2714",
+            "optimizerRuns": 999999
+          }
+        },
+        {
+          "address": "0xe2F826324b2faf99E513D16D266c3F80aE87832B",
+          "name": "OptimismPortal2",
+          "srcDir": "chains/ethereum-1/src/OptimismPortal2_e2f8",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://etherscan.io/address/0xe2F826324b2faf99E513D16D266c3F80aE87832B",
+          "build": {
+            "compilerVersion": "v0.8.15+commit.e14f2714",
+            "optimizerRuns": 999999
+          }
+        },
+        {
+          "address": "0x4146DF64D83acB0DcB0c1a4884a16f090165e122",
+          "name": "FaultDisputeGame",
+          "srcDir": "chains/ethereum-1/src/FaultDisputeGame_4146",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://etherscan.io/address/0x4146DF64D83acB0DcB0c1a4884a16f090165e122",
+          "build": {
+            "compilerVersion": "v0.8.15+commit.e14f2714",
+            "optimizerRuns": 999999
+          }
+        },
+        {
+          "address": "0xD326E10B8186e90F4E2adc5c13a2d0C137ee8b34",
+          "name": "PreimageOracle",
+          "srcDir": "chains/ethereum-1/src/PreimageOracle_d326",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://etherscan.io/address/0xD326E10B8186e90F4E2adc5c13a2d0C137ee8b34",
+          "build": {
+            "compilerVersion": "v0.8.15+commit.e14f2714",
+            "optimizerRuns": 999999
+          }
+        },
+        {
+          "address": "0x229047fed2591dbec1eF1118d64F7aF3dB9EB290",
+          "name": "Proxy",
+          "srcDir": "chains/ethereum-1/src/Proxy_2290",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://etherscan.io/address/0x229047fed2591dbec1eF1118d64F7aF3dB9EB290",
+          "build": {
+            "compilerVersion": "v0.8.15+commit.e14f2714",
+            "optimizerRuns": 999999
+          }
+        },
+        {
+          "address": "0x5a7749f83b81B301cAb5f48EB8516B986DAef23D",
+          "name": "Proxy",
+          "srcDir": "chains/ethereum-1/src/Proxy_5a77",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://etherscan.io/address/0x5a7749f83b81B301cAb5f48EB8516B986DAef23D",
+          "build": {
+            "compilerVersion": "v0.8.15+commit.e14f2714",
+            "optimizerRuns": 10000
+          }
+        },
+        {
+          "address": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+          "name": "L1ChugSplashProxy",
+          "srcDir": "chains/ethereum-1/src/L1ChugSplashProxy_99c9",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://etherscan.io/address/0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+          "build": {
+            "compilerVersion": "v0.7.6+commit.7338295f",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x0f8EdFbDdD3c0256A80AD8C0F2560B1807873C9c",
+          "name": "MIPS",
+          "srcDir": "chains/ethereum-1/src/MIPS_0f8e",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://etherscan.io/address/0x0f8EdFbDdD3c0256A80AD8C0F2560B1807873C9c",
+          "build": {
+            "compilerVersion": "v0.8.15+commit.e14f2714",
+            "optimizerRuns": 999999
+          }
+        },
+        {
+          "address": "0xdE1FCfB0851916CA5101820A69b13a4E276bd81F",
+          "name": "Lib_AddressManager",
+          "srcDir": "chains/ethereum-1/src/Lib_AddressManager_de1f",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://etherscan.io/address/0xdE1FCfB0851916CA5101820A69b13a4E276bd81F",
+          "build": {
+            "compilerVersion": "v0.7.6+commit.7338295f",
+            "optimizerRuns": 200
+          }
+        }
+      ]
+    },
+    {
+      "chainId": 10,
+      "rootDir": "chains/optimism-10",
+      "contracts": [
+        {
+          "address": "0xb5CB7a05DD1311195982A26DFC8222477f9D8179",
+          "name": "PolicyEngineStaking",
+          "srcDir": "chains/optimism-10/src/PolicyEngineStaking_b5cb",
+          "isPrimacyOfImpact": false,
+          "isSafeHarbor": false,
+          "explorerUrl": "https://optimistic.etherscan.io/address/0xb5CB7a05DD1311195982A26DFC8222477f9D8179",
+          "build": {
+            "compilerVersion": "v0.8.25+commit.b61c2a91",
+            "optimizerRuns": 999999
+          }
+        }
+      ]
+    }
+  ],
+  "buildSummary": {
+    "totalProfiles": 28,
+    "compiledOk": 0,
+    "compiledFail": 0,
+    "failedProfiles": []
+  }
+}
